@@ -1,0 +1,6 @@
+commands to compile ball and compile lazyVM (make sure you're in main directory)
+cd storage
+gcc -o ball ball.c
+mv ball ..
+cd ..
+./ball
