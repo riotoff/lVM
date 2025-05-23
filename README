@@ -1,0 +1,9 @@
+lVM
+===
+
+All documentation is in the "docs/" directory.
+Main source code is in the "src/" directory.
+Compiler is in the "storage/" directory.
+
+
+Special thanks to xi816 for his Govno Core project sources.
