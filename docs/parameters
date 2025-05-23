@@ -1,0 +1,4 @@
+"-drive" is a parameter for driving a file.
+"-debug" is a parameter for debugging a file.
+"-hd" is a parameter for defining file as hard drive.
+"-fd" is a parameter for defining file as floppy disk.
