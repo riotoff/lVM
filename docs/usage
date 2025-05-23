@@ -1,0 +1,5 @@
+Basic usage of lVM:
+./lvm -<option> <file> -<disk-type>
+
+Example:
+./lvm -drive disk.img -hd
